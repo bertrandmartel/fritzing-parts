@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg8" width="38mm" height="26mm" version="1.1" viewBox="0 0 38 26" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="breadboard" transform="translate(0,-271)">
+  <g id="icon">
+   <rect id="rect817" y="270.94" width="38.004" height="26.062" fill="#1e7a33" fill-rule="evenodd" stroke-width=".26458"/>
+   <g id="g835" transform="translate(13.029 -2.8063)">
+    <g id="g1209" transform="translate(0 .18899)">
+     <circle id="path824" cx="-9.0006" cy="277.7" r="3" fill="#8d8c8c"/>
+     <circle id="path826" cx="-9.0006" cy="277.7" r="1.5" fill="#fff"/>
+     <ellipse id="path828" cx="-9.1456" cy="278.98" rx=".025057" ry=".10023" fill="#fff"/>
+    </g>
+   </g>
+   <g id="g867" transform="translate(13.029 15.502)">
+    <circle id="circle861" cx="-9.0006" cy="277.7" r="3" fill="#8d8c8c"/>
+    <circle id="circle863" cx="-9.0006" cy="277.7" r="1.5" fill="#fff"/>
+    <ellipse id="ellipse865" cx="-9.1456" cy="278.98" rx=".025057" ry=".10023" fill="#fff"/>
+   </g>
+   <rect id="rect869" transform="rotate(90)" x="279.6" y="-10" width="9" height="10" fill="#8d8c8c" fill-rule="evenodd" stroke-width=".23456"/>
+   <g id="g1010" transform="translate(11.498 10.088)">
+    <g id="g1018" transform="translate(15.639 1.2284)">
+     <polygon id="polygon242" transform="matrix(.36364 0 0 .40886 -29.028 261.08)" points="21.311 21.998 36.436 21.998 35.852 24.794 21.311 24.794" fill="#3d3d3d"/>
+     <polygon id="polygon244" transform="matrix(.36364 0 0 .40886 -29.028 261.08)" points="36.436 35.45 21.311 35.45 21.311 32.57 35.852 32.57"/>
+     <polygon id="polygon280" transform="matrix(.36364 0 0 .40886 -29.028 261.08)" points="36.436 21.998 35.852 23.449 34.764 23.449 34.764 34.168 35.852 34.176 36.436 35.45" fill="#141414"/>
+     <polygon id="polygon282" transform="matrix(.36364 0 0 .40886 -29.028 261.08)" points="21.895 34.176 21.311 35.45 21.311 21.998 21.895 23.449 21.895 24.794 25.2 24.794 25.2 32.57 21.895 32.57" fill="#1f1f1f"/>
+     <path id="path284" d="m-21.074 270.67v4.3887h5.0753v-4.3887z" fill="#303030" stroke-width=".38559"/>
+     <ellipse id="circle286" cx="-20.305" cy="272.83" rx=".44145" ry=".49636" fill="#212121" stroke-width=".38559"/>
+    </g>
+   </g>
+   <rect id="rect1064" transform="rotate(90)" x="283.59" y="-12.061" width="1" height=".70192" fill="#8c8c8c" stroke-width=".55688"/>
+   <rect id="rect1070" x="12.996" y="281.72" width="3.5" height="1.5752" fill="#8d8c8c" fill-rule="evenodd" stroke-width=".21002"/>
+   <g id="g1022" transform="matrix(0 4.1261 -2.9643 0 832.44 315.63)" stroke-width=".26458">
+    <rect id="rect26" x="-8.1393" y="275.97" width=".24236" height=".75565" fill="#ccb453"/>
+    <rect id="rect262" x="-8.1393" y="276.33" width=".24236" height=".65379" fill="#8c8c8c"/>
+   </g>
+   <rect id="rect1072" x="12.996" y="284.9" width="3.5" height="1.5835" fill="#8d8c8c" fill-rule="evenodd" stroke-width=".21057"/>
+   <g id="g1049" transform="matrix(0 4.1261 -2.9643 0 832.44 318.73)" stroke-width=".26458">
+    <rect id="rect1045" x="-8.1393" y="275.97" width=".24236" height=".75565" fill="#ccb453"/>
+    <rect id="rect1047" x="-8.1393" y="276.33" width=".24236" height=".65379" fill="#8c8c8c"/>
+   </g>
+   <g id="g1080" transform="translate(43.126 16.021)">
+    <circle id="circle1074" cx="-9.0006" cy="277.7" r="3" fill="#8d8c8c"/>
+    <circle id="circle1076" cx="-9.0006" cy="277.7" r="1.5" fill="#fff"/>
+    <ellipse id="ellipse1078" cx="-9.1456" cy="278.98" rx=".025057" ry=".10023" fill="#fff"/>
+   </g>
+   <rect id="rect1082" transform="rotate(90)" x="279.6" y="-37.903" width="9" height="4" fill="#8d8c8c" fill-rule="evenodd" stroke-width=".26458"/>
+   <rect id="rect1084" transform="rotate(90)" x="279.6" y="-30.728" width="9" height="4" fill="#8d8c8c" fill-rule="evenodd" stroke-width=".26458"/>
+   <g id="g1194" transform="translate(-10.031 .28635)">
+    <g id="g1202" transform="translate(-10.958 -.82949)">
+     <polygon id="polygon242-0" transform="matrix(.46092 0 0 .51931 40.064 269.79)" points="21.311 24.794 21.311 21.998 36.436 21.998 35.852 24.794" fill="#3d3d3d"/>
+     <polygon id="polygon244-7" transform="matrix(.46092 0 0 .51931 40.064 269.79)" points="21.311 32.57 35.852 32.57 36.436 35.45 21.311 35.45"/>
+     <polygon id="polygon280-6" transform="matrix(.46092 0 0 .51931 40.064 269.79)" points="36.436 35.45 36.436 21.998 35.852 23.449 34.764 23.449 34.764 34.168 35.852 34.176" fill="#141414"/>
+     <polygon id="polygon282-0" transform="matrix(.46092 0 0 .51931 40.064 269.79)" points="21.895 24.794 25.2 24.794 25.2 32.57 21.895 32.57 21.895 34.176 21.311 35.45 21.311 21.998 21.895 23.449" fill="#1f1f1f"/>
+     <path id="path284-6" d="m50.156 281.96v5.5743h6.4331v-5.5743z" fill="#303030" stroke-width=".48925"/>
+     <circle id="circle286-6" cx="53.372" cy="284.75" r="2.25" fill="#212121" stroke-width="1.8534"/>
+    </g>
+   </g>
+   <g id="g911" fill-rule="evenodd">
+    <g>
+     <rect id="rect1204" x="8.5" y="275.63" width="1.5" height="3.0679" fill="#8d8c8c" stroke-width=".2931"/>
+     <rect id="rect1226" x="11.323" y="275.63" width="1.5" height="3.0679" fill="#8d8c8c" stroke-width=".2931"/>
+     <rect id="rect1243" x="9.2945" y="276.05" width="2.7677" height="2.2331" fill="#ccb453" stroke-width=".22237"/>
+    </g>
+    <rect id="rect1245" x="8.8656" y="276.05" width=".42894" height="2.2331" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".087541"/>
+    <rect id="rect1247" x="12.062" y="276.05" width=".42894" height="2.2331" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".087541"/>
+   </g>
+   <g id="g886" transform="translate(19.729 17.129)">
+    <circle id="path1282" cx="-7.843" cy="275.51" r="3" fill="#02129f"/>
+    <circle id="path1251" cx="-7.843" cy="275.51" r="2" fill="#8d8c8c"/>
+   </g>
+   <g id="g892" transform="translate(34.281 17.649)">
+    <circle id="circle888" cx="-7.843" cy="275.51" r="3" fill="#02129f"/>
+    <circle id="circle890" cx="-7.843" cy="275.51" r="2" fill="#8d8c8c"/>
+   </g>
+   <g id="g904" transform="translate(41.814 -5.2444)">
+    <circle id="circle894" cx="-11.879" cy="280.31" r="3"/>
+    <circle id="circle896" cx="-11.879" cy="280.31" r="2" fill="#8d8c8c"/>
+   </g>
+   <g id="g923" transform="rotate(89.973 7.7556 290.41)" fill-rule="evenodd">
+    <g>
+     <rect id="rect913" x="8.5" y="275.63" width="1.5" height="3.0679" fill="#8d8c8c" stroke-width=".2931"/>
+     <rect id="rect915" x="11.323" y="275.63" width="1.5" height="3.0679" fill="#8d8c8c" stroke-width=".2931"/>
+     <rect id="rect917" x="9.2945" y="276.05" width="2.7677" height="2.2331" fill="#ccb453" stroke-width=".22237"/>
+    </g>
+    <rect id="rect919" x="8.8656" y="276.05" width=".42894" height="2.2331" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".087541"/>
+    <rect id="rect921" x="12.062" y="276.05" width=".42894" height="2.2331" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".087541"/>
+   </g>
+   <g id="g947" transform="translate(-9.9558 5.9467)" fill-rule="evenodd">
+    <g>
+     <rect id="rect925" x="23.95" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect927" x="25.889" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect929" x="24.496" y="266.64" width="1.9014" height="1.1266" fill="#ccb453" stroke-width=".13092"/>
+    </g>
+    <rect id="rect931" x="24.201" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect933" x="26.397" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g973" transform="translate(-4.6331 5.0555)" fill-rule="evenodd">
+    <g>
+     <rect id="rect963" x="23.95" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect965" x="25.889" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect967" x="24.496" y="266.64" width="1.9014" height="1.1266" fill="#ccb453" stroke-width=".13092"/>
+    </g>
+    <rect id="rect969" x="24.201" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect971" x="26.397" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1081" transform="translate(-8.1957 9.9794)">
+    <polygon id="polygon242-2" transform="matrix(.2061 0 0 .26284 21.464 259.33)" points="21.311 24.794 21.311 21.998 36.436 21.998 35.852 24.794" fill="#3d3d3d"/>
+    <polygon id="polygon244-73" transform="matrix(.2061 0 0 .26284 21.464 259.33)" points="36.436 35.45 21.311 35.45 21.311 32.57 35.852 32.57"/>
+    <g fill="#8c8c8c">
+     <g stroke-width=".46051">
+      <rect id="rect246-1" x="26.196" y="268.46" width=".34258" height="1.4012"/>
+      <rect id="rect248-2" x="26.867" y="268.46" width=".34258" height="1.4012"/>
+      <rect id="rect250-1" x="27.538" y="268.46" width=".3422" height="1.4012"/>
+      <rect id="rect252-5" x="28.208" y="268.46" width=".3422" height="1.4012"/>
+     </g>
+     <g stroke-width=".47404">
+      <rect id="rect262-9" x="26.196" y="263.89" width=".34258" height="1.4847"/>
+      <rect id="rect264-1" x="26.867" y="263.89" width=".34258" height="1.4847"/>
+      <rect id="rect266-8" x="27.538" y="263.89" width=".3422" height="1.4847"/>
+      <rect id="rect268-3" x="28.208" y="263.89" width=".3422" height="1.4847"/>
+     </g>
+    </g>
+    <polygon id="polygon280-8" transform="matrix(.2061 0 0 .26284 21.464 259.33)" points="36.436 35.45 36.436 21.998 35.852 23.449 34.764 23.449 34.764 34.168 35.852 34.176" fill="#141414"/>
+    <polygon id="polygon282-2" transform="matrix(.2061 0 0 .26284 21.464 259.33)" points="21.311 21.998 21.895 23.449 21.895 24.794 25.2 24.794 25.2 32.57 21.895 32.57 21.895 34.176 21.311 35.45" fill="#1f1f1f"/>
+    <path id="path284-1" d="m25.977 265.5v2.8214h2.8765v-2.8214z" fill="#303030" stroke-width=".23275"/>
+   </g>
+   <g id="g1105" transform="translate(-.47247 8.7767)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1083" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1085" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1087" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1089" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1091" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1117" transform="translate(-.47247 11.836)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1107" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1109" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1111" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1113" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1115" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1143" transform="translate(-.47247 21.658)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1133" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1135" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1137" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1139" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1141" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1155" transform="translate(4.2205 15.591)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1145" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1147" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1149" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1151" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1153" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1167" transform="rotate(89.81 13.03 278.2)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1157" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1159" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1161" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1163" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1165" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1179" transform="rotate(89.81 7.8842 277.78)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1169" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1171" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1173" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1175" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1177" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1222" transform="translate(28.637 -3.706)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1183" transform="rotate(89.81)" x="287.73" y="6.5602" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1185" transform="matrix(.0042376 .99999 -1 .002598 0 0)" x="288.39" y="7.0403" width="1.4888" height="1.1266" fill="#eb2000" stroke-width=".11584"/>
+     <rect id="rect1189" transform="matrix(.0035796 .99999 -1 .0030756 0 0)" x="288.09" y="6.8036" width=".29469" height="1.2155" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".053532"/>
+    </g>
+    <g>
+     <rect id="rect1198" transform="matrix(.010856 .99994 -1 .001014 0 0)" x="289.9" y="8.9591" width=".58113" height="1.1266" stroke-width=".072375"/>
+     <rect id="rect1213" transform="rotate(89.81)" x="290.62" y="6.5664" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1200" transform="matrix(.010856 .99994 -1 .001014 0 0)" x="290.48" y="8.9591" width=".58113" height="1.1266" fill="#eb2000" stroke-width=".072375"/>
+    </g>
+    <rect id="rect1202" transform="matrix(.0036144 .99999 -1 .003046 0 0)" x="291.03" y="6.8007" width=".29469" height="1.2273" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".053791"/>
+   </g>
+   <g id="g1235" transform="translate(8.7061 6.0186)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1224" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1227" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1229" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1231" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1233" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1248" transform="matrix(.0055064 .86524 -.80414 .0059248 237.15 252.72)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1237" x="23.95" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1239" x="25.889" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1241" x="24.496" y="266.64" width="1.9014" height="1.1266" fill="#ccb453" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1244" x="24.201" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1246" x="26.397" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1272" transform="matrix(.88069 0 0 .86264 2.9018 47.133)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1262" x="23.95" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1264" x="25.889" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1266" x="24.496" y="266.64" width="1.9014" height="1.1266" fill="#ccb453" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1268" x="24.201" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1270" x="26.397" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1284" transform="matrix(.74547 0 0 .77107 14.935 66.661)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1274" x="23.95" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1276" x="25.889" y="266.43" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1278" x="24.496" y="266.64" width="1.9014" height="1.1266" fill="#ccb453" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1280" x="24.201" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1282" x="26.397" y="266.64" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1296" transform="matrix(0 .7057 -.78633 0 244.15 263.79)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1286" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1288" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1290" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1292" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1294" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g id="g1308" transform="matrix(0 .7057 -.78633 0 227.52 283.3)" fill-rule="evenodd">
+    <g>
+     <rect id="rect1298" x="14.466" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1300" x="16.406" y="266.04" width="1.0305" height="1.5479" fill="#8d8c8c" stroke-width=".17256"/>
+     <rect id="rect1302" x="15.012" y="266.25" width="1.9014" height="1.1266" stroke-width=".13092"/>
+    </g>
+    <rect id="rect1304" x="14.718" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+    <rect id="rect1306" x="16.914" y="266.25" width=".29469" height="1.1266" fill="#d0ccbe" fill-opacity=".80804" stroke-width=".051539"/>
+   </g>
+   <g fill="#fff" stroke="#9a916c" stroke-width=".18678">
+    <ellipse id="ellipse2426" cx="8.8103" cy="272.83" rx=".79992" ry=".80042"/>
+    <ellipse id="connector2pin" cx="11.149" cy="272.85" rx=".79992" ry=".80042"/>
+    <ellipse id="connector1pin" cx="8.8103" cy="272.83" rx=".79992" ry=".80042"/>
+    <ellipse id="connector3pin" cx="36.379" cy="273.51" rx=".79992" ry=".80042"/>
+    <ellipse id="connector4pin" cx="30.331" cy="290.62" rx=".79992" ry=".80042"/>
+   </g>
+  </g>
+ </g>
+</svg>

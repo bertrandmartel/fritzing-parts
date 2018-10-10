@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="root" width="29.21mm" height="24.13mm" version="1.1" viewBox="0 0 29.21 24.13" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata5148">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="breadboard">
+  <g id="icon">
+   <rect id="rect5696" y="-.010928" width="29.205" height="24.141" fill="#6a0090" fill-rule="evenodd"/>
+   <rect id="rect5698" x="23.524" y="9.1236" width="1.917" height="14.125" fill="#6a0090" fill-rule="evenodd" stroke="#fff" stroke-width=".094137"/>
+   <g fill="#fff">
+    <g stroke="#9a916c" stroke-width=".15003">
+     <ellipse id="connector18pin" cx="24.493" cy="22.239" rx=".69993" ry=".70037"/>
+     <ellipse id="connector17pin" cx="24.493" cy="20.222" rx=".69993" ry=".70037"/>
+     <ellipse id="connector16pin" cx="24.493" cy="18.205" rx=".69993" ry=".70037"/>
+     <ellipse id="connector15pin" cx="24.493" cy="16.189" rx=".69993" ry=".70037"/>
+     <ellipse id="connector14pin" cx="24.493" cy="14.172" rx=".69993" ry=".70037"/>
+     <ellipse id="connector13pin" cx="24.493" cy="12.156" rx=".69993" ry=".70037"/>
+     <ellipse id="connector12pin" cx="24.493" cy="10.139" rx=".69993" ry=".70037"/>
+    </g>
+    <rect id="rect5853" x="25.389" y="7.1554" width=".09999" height="1.4682" fill-rule="evenodd" stroke-width=".24473"/>
+    <rect id="rect5853-3" transform="rotate(90)" x="7.1554" y="-25.389" width=".10005" height="1.4673" fill-rule="evenodd" stroke-width=".24473"/>
+   </g>
+   <g>
+    <rect id="rect5870" x="23.728" y="7.3588" width="1.5298" height="1.5008" fill="#9a916c" fill-rule="evenodd"/>
+    <ellipse id="connector11pin" cx="24.493" cy="8.1142" rx=".64993" ry=".65034" fill="#fff" stroke="#9a916c" stroke-width=".075016"/>
+    <rect id="rect5889" x="11.704" y="5.3699" width="2.8275" height="17.82" fill="#6a0090" fill-rule="evenodd" stroke="#fff" stroke-width=".12803"/>
+   </g>
+   <g fill="#fff">
+    <g stroke="#9a916c" stroke-width=".18678">
+     <ellipse id="connector10pin" cx="13.133" cy="21.924" rx=".79992" ry=".80042"/>
+     <ellipse id="connector9pin" cx="13.133" cy="19.377" rx=".79992" ry=".80042"/>
+     <ellipse id="connector8pin" cx="13.133" cy="16.83" rx=".79992" ry=".80042"/>
+     <ellipse id="connector7pin" cx="13.133" cy="14.283" rx=".79992" ry=".80042"/>
+     <ellipse id="connector6pin" cx="13.133" cy="11.736" rx=".79992" ry=".80042"/>
+     <ellipse id="connector5pin" cx="13.133" cy="9.1889" rx=".79992" ry=".80042"/>
+     <ellipse id="connector4pin" cx="13.133" cy="6.6418" rx=".79992" ry=".80042"/>
+    </g>
+    <rect id="rect5937" x="14.496" y="2.8969" width=".09999" height="1.4682" fill-rule="evenodd" stroke-width=".24473"/>
+    <rect id="rect5939" transform="rotate(90)" x="2.8969" y="-14.496" width=".10005" height="1.4673" fill-rule="evenodd" stroke-width=".24473"/>
+   </g>
+   <rect id="rect5870-1" x="12.251" y="3.2226" width="1.7939" height="1.8228" fill="#9a916c" fill-rule="evenodd"/>
+   <g fill="#fff">
+    <ellipse id="connector3pin" cx="13.139" cy="4.1498" rx=".79992" ry=".80042" stroke="#9a916c" stroke-width=".18678"/>
+    <rect id="rect5968" x="1.816" y="2.8059" width=".09999" height="1.4682" fill-rule="evenodd" stroke-width=".24473"/>
+    <rect id="rect5970" transform="rotate(90)" x="2.8059" y="-3.3833" width=".10005" height="1.4673" fill-rule="evenodd" stroke-width=".24473"/>
+   </g>
+   <rect id="rect5972" x="2.1492" y="3.2226" width="1.7939" height="1.8228" fill="#9a916c" fill-rule="evenodd"/>
+   <g>
+    <ellipse id="connector1pin" cx="3.0375" cy="4.1498" rx=".79992" ry=".80042" fill="#fff" stroke="#9a916c" stroke-width=".18678"/>
+    <rect id="rect881" x="1.8807" y="5.4428" width="2.3521" height="2.3715" fill-opacity="0" stroke="#fff" stroke-width=".1295"/>
+    <ellipse id="connector2pin" cx="3.0317" cy="6.6418" rx=".79992" ry=".80042" fill="#fff" stroke="#9a916c" stroke-width=".18678"/>
+   </g>
+   <g font-family="'Droid Sans'">
+    <g font-size="2">
+     <text id="text5980" transform="scale(.99969 1.0003)" x="2.367439" y="2.1668148" xml:space="preserve"><tspan id="tspan5978" x="2.367439" y="2.1668148" fill="#f9f9f9" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">J3</tspan></text>
+     <text id="text5988" transform="scale(.99969 1.0003)" x="12.472565" y="2.2271583" xml:space="preserve"><tspan id="tspan5986" x="12.472565" y="2.2271583" fill="#f9f9f9" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">J2</tspan></text>
+     <text id="text5988-7" transform="scale(.99969 1.0003)" x="23.979702" y="6.3809967" xml:space="preserve"><tspan id="tspan5986-3" x="23.979702" y="6.3809967" fill="#f9f9f9" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">J1</tspan></text>
+     <text id="text6020" transform="scale(.99969 1.0003)" x="4.9434066" y="4.8031774" xml:space="preserve"><tspan id="tspan6018" x="4.9434066" y="4.8031774" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">5V</tspan></text>
+     <text id="text6042" transform="scale(.99969 1.0003)" x="4.9434066" y="7.1779332" xml:space="preserve"><tspan id="tspan6040" x="4.9434066" y="7.1779332" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">GND</tspan></text>
+     <text id="text6046" transform="scale(.99969 1.0003)" x="15.569448" y="4.8031774" xml:space="preserve"><tspan id="tspan6044" x="15.569448" y="4.8031774" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">5V</tspan></text>
+     <text id="text6050" transform="scale(.99969 1.0003)" x="15.569448" y="7.2584386" xml:space="preserve"><tspan id="tspan6048" x="15.569448" y="7.2584386" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">DOUT</tspan></text>
+     <text id="text6054" transform="scale(.99969 1.0003)" x="15.569448" y="9.9149332" xml:space="preserve"><tspan id="tspan6052" x="15.569448" y="9.9149332" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">DIN</tspan></text>
+     <text id="text6058" transform="scale(.99969 1.0003)" x="15.569448" y="12.450669" xml:space="preserve"><tspan id="tspan6056" x="15.569448" y="12.450669" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">STRB</tspan></text>
+     <text id="text6062" transform="scale(.99969 1.0003)" x="15.569448" y="14.865678" xml:space="preserve"><tspan id="tspan6060" x="15.569448" y="14.865678" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">CLK</tspan></text>
+     <text id="text6066" transform="scale(.99969 1.0003)" x="15.569448" y="14.865678" xml:space="preserve"><tspan id="tspan6064" x="15.569448" y="14.865678" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">CLK</tspan></text>
+    </g>
+    <g font-size="4px">
+     <text id="text6070" transform="scale(.99969 1.0003)" x="15.569448" y="17.481949" xml:space="preserve"><tspan id="tspan6068" x="15.569448" y="17.481949" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">GND</tspan></text>
+     <text id="text6074" transform="scale(.99969 1.0003)" x="15.569448" y="20.098251" xml:space="preserve"><tspan id="tspan6072" x="15.569448" y="20.098251" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">NC</tspan></text>
+     <text id="text872" transform="scale(.99969 1.0003)" x="15.569448" y="22.461151" xml:space="preserve"><tspan id="tspan870" x="15.569448" y="22.461151" fill="#ffe680" font-family="'Droid Sans'" font-size="2" stroke-width=".26464" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:2">200V</tspan></text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

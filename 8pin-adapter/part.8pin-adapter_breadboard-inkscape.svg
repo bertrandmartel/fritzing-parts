@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.209999mm"
+   height="24.129999mm"
+   viewBox="0 0 29.21 24.129997"
+   version="1.1"
+   id="root"
+   sodipodi:docname="part.8pin-adapter_breadboard-inkscape.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview63"
+     showgrid="false"
+     inkscape:zoom="7.2760265"
+     inkscape:cx="39.929098"
+     inkscape:cy="51.433337"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="root" />
+  <defs
+     id="defs5145" />
+  <metadata
+     id="metadata5148">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="breadboard">
+    <g
+       id="icon">
+      <rect
+         y="-0.010928463"
+         x="0"
+         height="24.140926"
+         width="29.205454"
+         id="rect5696"
+         style="opacity:1;vector-effect:none;fill:#6a0090;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26505557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
+      <rect
+         y="9.1236238"
+         x="23.523922"
+         height="14.124981"
+         width="1.9170125"
+         id="rect5698"
+         style="opacity:1;vector-effect:none;fill:#6a0090;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.09413698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         cy="22.238522"
+         cx="24.493341"
+         id="connector18pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector17pin"
+         cx="24.493341"
+         cy="20.221981" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector16pin"
+         cx="24.493341"
+         cy="18.205379" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         cy="16.188839"
+         cx="24.493341"
+         id="connector15pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector14pin"
+         cx="24.493341"
+         cy="14.172269" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         cy="12.155728"
+         cx="24.493341"
+         id="connector13pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.7003668"
+         rx="0.69992691"
+         cy="10.139157"
+         cx="24.493341"
+         id="connector12pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.15003148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="7.1554227"
+         x="25.389429"
+         height="1.4682456"
+         width="0.099989578"
+         id="rect5853"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2447315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-25.389429"
+         x="7.1554227"
+         height="1.4673238"
+         width="0.1000524"
+         id="rect5853-3"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2447315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="7.3587918"
+         x="23.728428"
+         height="1.5007858"
+         width="1.5298404"
+         id="rect5870"
+         style="opacity:1;vector-effect:none;fill:#9a916c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22059973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="0.65034056"
+         rx="0.64993221"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.07501574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector11pin"
+         cx="24.493341"
+         cy="8.1141939" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#6a0090;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.12802686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5889"
+         width="2.8275347"
+         height="17.819532"
+         x="11.704208"
+         y="5.3699307" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector10pin"
+         cx="13.133393"
+         cy="21.924313" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         cy="19.377193"
+         cx="13.133393"
+         id="connector9pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector8pin"
+         cx="13.133393"
+         cy="16.830105" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         cy="14.283048"
+         cx="13.133393"
+         id="connector7pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector6pin"
+         cx="13.133393"
+         cy="11.735959" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         cy="9.1889009"
+         cx="13.133393"
+         id="connector5pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector4pin"
+         cx="13.133393"
+         cy="6.6418118" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2447315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5937"
+         width="0.099989578"
+         height="1.4682456"
+         x="14.495939"
+         y="2.8969085" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2447315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5939"
+         width="0.1000524"
+         height="1.4673238"
+         x="2.8969085"
+         y="-14.495939"
+         transform="rotate(90)" />
+      <rect
+         y="3.2226226"
+         x="12.250914"
+         height="1.8228073"
+         width="1.7939092"
+         id="rect5870-1"
+         style="opacity:1;vector-effect:none;fill:#9a916c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26326495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         cy="4.149838"
+         cx="13.139236"
+         id="connector3pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="2.8059356"
+         x="1.815966"
+         height="1.4682456"
+         width="0.099989578"
+         id="rect5968"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2447315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-3.3832793"
+         x="2.8059356"
+         height="1.4673238"
+         width="0.1000524"
+         id="rect5970"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.2447315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#9a916c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26326495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5972"
+         width="1.7939092"
+         height="1.8228073"
+         x="2.1491795"
+         y="3.2226226" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="connector1pin"
+         cx="3.037504"
+         cy="4.149838" />
+      <rect
+         y="5.4428372"
+         x="1.8806953"
+         height="2.3715346"
+         width="2.352066"
+         id="rect881"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.12949859;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="0.80041921"
+         rx="0.79991663"
+         cy="6.6418118"
+         cx="3.0316577"
+         id="connector2pin"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#9a916c;stroke-width:0.18677783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text5980"
+         y="2.1668148"
+         x="2.367439"
+         font-size="1.76424158px"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;stroke-width:0.26463884"
+           y="2.1668148"
+           x="2.367439"
+           id="tspan5978">J3</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text5988"
+         y="2.2271583"
+         x="12.472565"
+         font-size="1.76424158px"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;stroke-width:0.26463884"
+           y="2.2271583"
+           x="12.472565"
+           id="tspan5986">J2</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text5988-7"
+         y="6.3809967"
+         x="23.979702"
+         font-size="1.76424158px"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;stroke-width:0.26463884"
+           y="6.3809967"
+           x="23.979702"
+           id="tspan5986-3">J1</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text6020"
+         y="4.8031774"
+         x="4.9434066"
+         font-size="1.76424158px"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884"
+           y="4.8031774"
+           x="4.9434066"
+           id="tspan6018">5V</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         xml:space="preserve"
+         font-size="1.76424158px"
+         x="4.9434066"
+         y="7.1779332"
+         id="text6042"><tspan
+           id="tspan6040"
+           x="4.9434066"
+           y="7.1779332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884">GND</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         xml:space="preserve"
+         font-size="1.76424158px"
+         x="15.569448"
+         y="4.8031774"
+         id="text6046"><tspan
+           id="tspan6044"
+           x="15.569448"
+           y="4.8031774"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884">5V</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text6050"
+         y="7.2584386"
+         x="15.569448"
+         font-size="1.76424158px"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884"
+           y="7.2584386"
+           x="15.569448"
+           id="tspan6048">DOUT</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         xml:space="preserve"
+         font-size="1.76424158px"
+         x="15.569448"
+         y="9.9149332"
+         id="text6054"><tspan
+           id="tspan6052"
+           x="15.569448"
+           y="9.9149332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884">DIN</tspan></text>
+      <text
+         transform="scale(0.99968599,1.0003141)"
+         id="text6058"
+         y="12.450669"
+         x="15.569448"
+         font-size="1.76424158px"
+         xml:space="preserve"
+         style="font-size:1.76424158px;font-family:'Droid Sans'"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884"
+           y="12.450669"
+           x="15.569448"
+           id="tspan6056">STRB</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         xml:space="preserve"
+         font-size="1.76424158px"
+         x="15.569448"
+         y="14.865678"
+         id="text6062"><tspan
+           id="tspan6060"
+           x="15.569448"
+           y="14.865678"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884">CLK</tspan></text>
+      <text
+         style="font-size:1.76424158px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text6066"
+         y="14.865678"
+         x="15.569448"
+         font-size="1.76424158px"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884"
+           y="14.865678"
+           x="15.569448"
+           id="tspan6064">CLK</tspan></text>
+      <text
+         style="font-size:4px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         xml:space="preserve"
+         font-size="4"
+         x="15.569448"
+         y="17.481949"
+         id="text6070"><tspan
+           id="tspan6068"
+           x="15.569448"
+           y="17.481949"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884">GND</tspan></text>
+      <text
+         style="font-size:4px;font-family:'Droid Sans'"
+         transform="scale(0.99968599,1.0003141)"
+         id="text6074"
+         y="20.098251"
+         x="15.569448"
+         font-size="4"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884"
+           y="20.098251"
+           x="15.569448"
+           id="tspan6072">NC</tspan></text>
+      <text
+         xml:space="preserve"
+         font-size="4"
+         x="15.569448"
+         y="22.461151"
+         id="text872"
+         transform="scale(0.99968599,1.0003141)"
+         style="font-size:4px;font-family:'Droid Sans'"><tspan
+           id="tspan870"
+           x="15.569448"
+           y="22.461151"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76424158px;line-height:2;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffe680;stroke-width:0.26463884">200V</tspan></text>
+    </g>
+  </g>
+</svg>
